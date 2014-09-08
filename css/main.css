@@ -1,0 +1,20 @@
+.blob {
+	padding: 25px;
+	color: Salmon;
+}
+
+#about-me {
+	color: Red;
+	font-size: 200%;
+	padding-left: 50%;
+}
+
+#irc {
+	font-size: 70%;
+	padding-left: 35%;
+}
+
+#teamspeak {
+	font-size: 30%;
+	padding-left: 90%;
+}
