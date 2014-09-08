@@ -10,11 +10,13 @@
 }
 
 #irc {
+	clor: Green;
 	font-size: 70%;
 	padding-left: 35%;
 }
 
 #teamspeak {
+	color: Blue;
 	font-size: 30%;
 	padding-left: 90%;
 }
